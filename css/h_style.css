@@ -1,0 +1,25 @@
+@charset "UTF-8";	
+
+    table {
+    font-family: 'Open Sans',sans-serif;
+    color: #808080;
+	margin:15px 1;
+	overflow: hidden;
+}
+    th {
+	font-weight:bold;
+	
+}
+    td {
+    height: 40px;
+}
+	.Tab{
+        border-collapse:collapse;
+        }
+         
+    .Tab td{
+        border:solid 1px #808080;
+        }
+        
+        
+        
